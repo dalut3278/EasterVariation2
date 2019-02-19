@@ -17,7 +17,7 @@ public class EasterVaration2 {
      */
     public static void main(String[] args) {
  	//a - m - the quotients and remainders needed
-     	int a, b, c, d, e, f, g, h, i, j, k, m, p;
+     	int a, b, c, d, e, f, g, h, i, j, k, m, p, q;
     	int month;  //Easter month
      	int day;    //Easter day
      	int year;   //Easter's year
