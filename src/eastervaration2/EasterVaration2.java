@@ -1,7 +1,7 @@
 /**
 *David Lutelmowski
 * 2/18/19
-* Area Of Triangle Program
+* Easter Variation 2 Program
 */
 package eastervaration2;
 import javax.swing.*;
