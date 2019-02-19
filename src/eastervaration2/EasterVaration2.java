@@ -1,15 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/**
+*David Lutelmowski
+* 2/18/19
+* Area Of Triangle Program
+*/
 package eastervaration2;
 import javax.swing.*;
 
-/**
- *
- * @author David
- */
 public class EasterVaration2 {
 
     /**
